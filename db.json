@@ -44,7 +44,7 @@
       "id": 6,
       "title": "The Catcher in the Rye",
       "author": "J.D. Salinger",
-      "image": "https://books.google.co.ke/books/content?id=j--EMdEfmbkC&pg=PA28&img=1&pgis=1&dq=the+catcher+in+rye&bul=1&sig=ACfU3U1plNRXn_a75khyswGYFu26AzO5sQ&edge=0",
+      "image": "https://books.google.co.ke/books/content?id=zetvY6iudVsC&pg=PP1&img=1&zoom=3&hl=en&bul=1&sig=ACfU3U1dRNOxl3CEy2pQinUoYP24Jm5iSw&w=1280",
       "description": "A coming-of-age story that follows a teenage boy's journey through New York City.",
       "detailedDescription": "Narrated by the disillusioned teenager Holden Caulfield, this coming-of-age novel captures the angst and alienation of adolescence. As Holden wanders the streets of New York City, grappling with the phoniness of adult society, readers are drawn into his search for authenticity and connection."
     },
@@ -60,7 +60,7 @@
       "id": 8,
       "title": "The Hobbit",
       "author": "J.R.R. Tolkien",
-      "image": "https://books.google.co.ke/books/publisher/content?id=Vbb3EAAAQBAJ&pg=PA1&img=1&zoom=3&hl=en&bul=1&sig=ACfU3U14HUvYfa4Ztp0VyhWZJF6JpLHniQ&w=1280",
+      "image": "https://books.google.co.ke/books/content?id=GN1PJGy9ghAC&pg=PP1&img=1&zoom=3&hl=en&bul=1&sig=ACfU3U2fhc-AJcadRqsR9oHeOo89b1hh6g&w=1280",
       "description": "A prelude to 'The Lord of the Rings' that introduces the world of Middle-earth and its inhabitants.",
       "detailedDescription": "Bilbo Baggins, a reluctant hobbit, is swept into an unexpected adventure when the wizard Gandalf and a band of dwarves recruit him to reclaim their homeland from the dragon Smaug. Along the way, Bilbo encounters trolls, goblins, and elves, discovering courage and friendship in the face of danger."
     },
@@ -111,6 +111,54 @@
       "image": "https://books.google.co.ke/books/content?id=FGs9AAAAYAAJ&pg=PR3&img=1&zoom=3&hl=en&bul=1&sig=ACfU3U1a3EZfG-l7T3N7z9J3ovt6IeQTVg&w=1025",
       "description": "The final part of 'The Divine Comedy', depicting Dante's journey through Heaven.",
       "detailedDescription": "The final part of Dante Alighieri's The Divine Comedy, The Paradiso, depicts Dante's ascent through the celestial spheres of Heaven guided by Beatrice and illuminated by divine love. In each sphere, Dante encounters blessed souls, including saints, theologians, and martyrs, who reveal the glory of God and the order of the universe. Through mystical visions and philosophical contemplation, Dante explores themes of divine justice, the nature of God, and the eternal bliss of the redeemed soul."
-    }
+    },
+    {
+      "id": 15,
+      "title": "Emergency",
+      "author": "Richard Rive",
+      "image": "https://books.google.co.ke/books/content?id=6ubW9-LuydEC&pg=PA3&img=1&zoom=3&hl=en&sig=ACfU3U1MLAki28LYlfbDwBmeMQGTiKF0sw&w=1280",
+      "description": "A gripping tale of survival and resilience set against the backdrop of a natural disaster.",
+      "detailedDescription": "In 'Emergency,' Richard Rive masterfully weaves a narrative that explores the human spirit's capacity for survival amidst chaos. The story unfolds during a catastrophic event, where the protagonist must navigate through the aftermath to save those he cares about. Rive's vivid descriptions of the environment and the characters' emotional journeys make 'Emergency' a compelling read. This novel is not only a thrilling adventure but also a poignant reflection on the fragility of life and the strength of the human will to endure."
+    },
+    {
+      "id": 16,
+      "title": "Crime and Punishment",
+      "author": "Fyodor Dostoyevsky",
+      "image": "https://books.google.co.ke/books/content?id=0px_B3jQBLQC&pg=PP1&img=1&zoom=3&hl=en&bul=1&sig=ACfU3U2LRmljguBTKvHJgA9ryl_X_Zpa3A&w=1280",
+      "description": "A gripping tale of crime and its consequences, set in the vibrant backdrop of India.",
+      "detailedDescription": "In 'Crime and Punishment,' Dostoyevsky delves into the complexities of human nature and the moral dilemmas faced by individuals in their pursuit of justice and redemption. The story follows a man who commits a crime under the guise of righteousness, only to grapple with the guilt and the repercussions of his actions. Narayan's narrative style, characterized by its depth of character development and exploration of societal norms, makes 'Crime and Punishment' a thought-provoking read. This novel is not just a crime story but also a profound examination of the human condition, offering insights into the nature of crime, punishment, and the quest for atonement."
+    },
+    {
+      "id": 17,
+      "title": "War and Peace",
+      "author": "Leo Tolstoy",
+      "image": "https://books.google.co.ke/books/content?id=c4HEAN-ti1MC&pg=PP1&img=1&zoom=3&hl=en&bul=1&sig=ACfU3U12uyyGGDZqhAxFdc_Qgtqz7KQK6g&w=1280",
+      "description": "A panoramic study of early 19th-century Russian society, War and Peace is a masterpiece of Russian literature.",
+      "detailedDescription": "Written over six years and originally serialized, 'War and Peace' by Leo Tolstoy is a monumental work that offers a comprehensive view of Russian society during the Napoleonic era. The novel, which spans more than 1,200 pages, is renowned for its realistic detail and psychological depth, making it one of the world's greatest novels. Tolstoy's narrative weaves together the stories of five aristocratic families, providing a multifaceted exploration of the impact of Napoleon's invasion on Tsarist society. The novel is not just a historical chronicle but also a philosophical discourse, with Tolstoy incorporating his views on history and the nature of reality into the narrative. 'War and Peace' stands as Tolstoy's finest literary achievement, celebrated for its complex characters, intricate plot, and profound insights into human nature and society."
+    },
+    {
+      "id": 18,
+      "title": "In Search of Lost Time",
+      "author": "Marcel Proust",
+      "image": "https://books.google.co.ke/books/publisher/content?id=KyDjEAAAQBAJ&pg=PP1&img=1&zoom=3&hl=en&bul=1&sig=ACfU3U0TAXPm3hsysH-Nys3k_EW82w0XvQ&w=1280",
+      "description": "A monumental work of 20th-century literature, In Search of Lost Time explores the nature of time, memory, and the human condition.",
+      "detailedDescription": "In 'In Search of Lost Time,' Marcel Proust embarks on a profound exploration of the human experience, weaving a narrative that spans the late 19th and early 20th centuries in high-society France. The novel, originally titled 'À la recherche du temps perdu,' is a seven-volume masterpiece that delves into the narrator's journey of self-discovery, the intricacies of love and art, and the passage of time. Proust's work is celebrated for its depth of character analysis, its richly detailed social commentary, and its innovative approach to narrative structure. The novel's most famous episode, the 'madeleine' incident, exemplifies Proust's exploration of involuntary memory. 'In Search of Lost Time' is not just a novel but a philosophical inquiry into the nature of existence, memory, and the elusive pursuit of happiness."
+    },
+    {
+      "id": 19,
+      "title": "The Adventures of Huckleberry Finn",
+      "author": "Mark Twain",
+      "image": "https://books.google.co.ke/books/content?id=7bU4AAAAMAAJ&pg=PP1&img=1&zoom=3&hl=en&bul=1&sig=ACfU3U1kfEMFDZZCja5SpvNDB4bwIrg2jQ&w=1280",
+      "description": "A seminal work in American literature, The Adventures of Huckleberry Finn explores themes of race, freedom, and the human condition.",
+      "detailedDescription": "Published in 1884, 'The Adventures of Huckleberry Finn' by Mark Twain is a landmark novel in American literature, celebrated for its vernacular English and its deeply felt portrayal of boyhood. Told in the first person by Huck Finn, a friend of Tom Sawyer, the novel is a direct sequel to 'The Adventures of Tom Sawyer.' It is set in the Southern antebellum society and is known for its colorful descriptions of the Mississippi River and its scathing satire on entrenched attitudes, particularly racism. Despite its popularity and critical acclaim, the novel has been the subject of ongoing debate due to its extensive use of coarse language and racial epithets. Twain's work is a profound exploration of the human experience, memory, and the passage of time, making 'The Adventures of Huckleberry Finn' a timeless classic that continues to be studied and appreciated for its complex characters and rich narrative."
+    },
+    {
+      "id": 20,
+      "title": "Brave New World",
+      "author": "Aldous Huxley",
+      "image": "https://books.google.co.ke/books/content?id=8JyRntokmqYC&pg=PP1&img=1&zoom=3&hl=en&bul=1&sig=ACfU3U3_HhAv7TsBWPXNTqg51TrJlPU9Uw&w=1280",
+      "description": "A chilling vision of a future society where individuality and emotion are suppressed for the sake of efficiency and happiness.",
+      "detailedDescription": "Published in 1932, 'Brave New World' by Aldous Huxley presents a dystopian vision of a future society, set in 2540 CE, known as the World State. This society is characterized by its obsession with science, efficiency, and the suppression of individuality and emotion. Children are conditioned from birth to fit into predetermined social classes, with the aim of creating a harmonious society devoid of conflict. The novel explores themes of totalitarianism, the dangers of unchecked technology, and the cost of happiness at the expense of personal freedom. Through the experiences of characters like Bernard Marx and John 'the Savage,' Huxley critiques the loss of humanity in a world where everyone is happy but also disconnected from genuine emotion and personal fulfillment. 'Brave New World' remains a timeless critique of the potential pitfalls of a technologically advanced society that prioritizes control and conformity over individuality and freedom."
+    }  
   ]
 }
