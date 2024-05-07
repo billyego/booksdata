@@ -2,6 +2,8 @@
   "books": [
     {
       "id": 1,
+      "isbn": "978-1-60309-502-0",
+      "pageCount": "343",
       "title": "To Kill a Mockingbird",
       "author": "Harper Lee",
       "image": "https://books.google.co.ke/books/publisher/content?id=-D8WBAAAQBAJ&pg=PP1&img=1&zoom=3&hl=en&bul=1&sig=ACfU3U3AwaumJtl84JUpuJEBFvfIHCKKvA&w=1280",
@@ -10,6 +12,8 @@
     },
     {
       "id": 2,
+      "isbn": "978-1-60309-517-4",
+      "pageCount": "303",
       "title": "1984",
       "author": "George Orwell",
       "image": "https://books.google.co.ke/books/publisher/content?id=JT_JDAAAQBAJ&pg=PP1&img=1&zoom=3&hl=en&bul=1&sig=ACfU3U2MsxEnlYvYoweHkHNtYR5CpLNAOA&w=1280",
@@ -18,6 +22,8 @@
     },
     {
       "id": 3,
+      "isbn": "978-1-60309-527-3",
+      "pageCount": "453",
       "title": "The Great Gatsby",
       "author": "F. Scott Fitzgerald",
       "image": "https://books.google.co.ke/books/publisher/content?id=WpD_DAAAQBAJ&pg=PP1&img=1&zoom=3&hl=en&bul=1&sig=ACfU3U2smY1XG0tjSZpqcsPWGRs18i-NFg&w=1280",
@@ -26,6 +32,8 @@
     },
     {
       "id": 4,
+      "isbn": "978-1-60309-535-8",
+      "pageCount": "234",
       "title": "Pride and Prejudice",
       "author": "Jane Austen",
       "image": "https://books.google.co.ke/books/content?id=kQ0mAAAAMAAJ&pg=PP1&img=1&zoom=3&hl=en&bul=1&sig=ACfU3U37zPGoOr2IU2f0PCVIexnC5nPGag&w=1280",
@@ -34,6 +42,8 @@
     },
     {
       "id": 5,
+      "isbn": "978-1-60309-520-4",
+      "pageCount": "348",
       "title": "Moby Dick",
       "author": "Herman Melville",
       "image": "https://books.google.co.ke/books/content?id=cyrMu-gkGQQC&pg=PP1&img=1&zoom=3&hl=en&bul=1&sig=ACfU3U00eaWZgj0FjvrHUpX5feSpc58pJg&w=1280",
@@ -42,6 +52,8 @@
     },
     {
       "id": 6,
+      "isbn": "978-1-60309-454-2",
+      "pageCount": "194",
       "title": "The Catcher in the Rye",
       "author": "J.D. Salinger",
       "image": "https://books.google.co.ke/books/content?id=zetvY6iudVsC&pg=PP1&img=1&zoom=3&hl=en&bul=1&sig=ACfU3U1dRNOxl3CEy2pQinUoYP24Jm5iSw&w=1280",
@@ -50,6 +62,8 @@
     },
     {
       "id": 7,
+      "isbn": "978-1-60309-511-2",
+      "pageCount": "753",
       "title": "The Lord of the Rings",
       "author": "J.R.R. Tolkien",
       "image": "https://upload.wikimedia.org/wikipedia/en/a/a1/Lord_Rings_Two_Towers.jpg",
@@ -58,6 +72,8 @@
     },
     {
       "id": 8,
+      "isbn": "978-1-60309-492-4",
+      "pageCount": "189",
       "title": "The Hobbit",
       "author": "J.R.R. Tolkien",
       "image": "https://books.google.co.ke/books/content?id=zEK0ewyRMn4C&pg=PP1&img=1&zoom=3&hl=en&bul=1&sig=ACfU3U096AL-d6YzLvk8-sn_2mhf5MYNPg&w=1280",
@@ -66,6 +82,8 @@
     },
     {
       "id": 9,
+      "isbn": "978-1-60309-513-6",
+      "pageCount": "456",
       "title": "The Grapes of Wrath",
       "author": "John Steinbeck",
       "image": "https://books.google.co.ke/books/content?id=fUoQFk8aTCkC&pg=PP1&img=1&zoom=3&hl=en&bul=1&sig=ACfU3U1QZuk83HucHFgY1TEjC_DKdW7BcQ&w=1280",
@@ -74,6 +92,8 @@
     },
     {
       "id": 10,
+      "isbn": "978-1-60309-514-3",
+      "pageCount": "387",
       "title": "The Odyssey",
       "author": "Homer",
       "image": "https://books.google.co.ke/books/publisher/content?id=3bsmCwAAQBAJ&pg=PP1&img=1&zoom=3&hl=en&bul=1&sig=ACfU3U3ARPqvFXAWC2ptPqTKaMxFThtlHw&w=1280",
@@ -82,6 +102,8 @@
     },
     {
       "id": 11,
+      "isbn": "978-1-60309-508-2",
+      "pageCount": "822",
       "title": "The Divine Comedy",
       "author": "Dante Alighieri",
       "image": "https://books.google.co.ke/books/content?id=wmacUwleJv8C&pg=PA3&img=1&zoom=3&hl=en&bul=1&sig=ACfU3U0XGiCr3aAkBB6yM65RoKgcI5OVUA&w=1280",
@@ -90,6 +112,8 @@
     },
     {
       "id": 12,
+      "isbn": "978-1-60309-038-4",
+      "pageCount": "271",
       "title": "The Inferno",
       "author": "Dante Alighieri",
       "image": "https://books.google.co.ke/books/content?id=htkrUmjuNjoC&pg=PP1&img=1&zoom=3&hl=en&bul=1&sig=ACfU3U3Y3sJQ4uVmocOXQ0EQxsd3eUyxpg&w=1280",
@@ -98,6 +122,8 @@
     },
     {
       "id": 13,
+      "isbn": "978-1-60309-515-0",
+      "pageCount": "169",
       "title": "The Purgatorio",
       "author": "Dante Alighieri",
       "image": "https://books.google.co.ke/books/content?id=Glt-WfBRzEkC&pg=PP1&img=1&zoom=3&hl=en&bul=1&sig=ACfU3U2BcWBVlqZiaLDv9MJaWkEomYGyyw&w=1280",
@@ -106,6 +132,8 @@
     },
     {
       "id": 14,
+      "isbn": "978-1-60309-505-1",
+      "pageCount": "158",
       "title": "The Paradiso",
       "author": "Dante Alighieri",
       "image": "https://books.google.co.ke/books/content?id=FGs9AAAAYAAJ&pg=PR3&img=1&zoom=3&hl=en&bul=1&sig=ACfU3U1a3EZfG-l7T3N7z9J3ovt6IeQTVg&w=1025",
@@ -114,6 +142,8 @@
     },
     {
       "id": 15,
+      "isbn": "978-1-60309-469-6",
+      "pageCount": "147",
       "title": "Emergency",
       "author": "Richard Rive",
       "image": "https://books.google.co.ke/books/content?id=6ubW9-LuydEC&pg=PA3&img=1&zoom=3&hl=en&sig=ACfU3U1MLAki28LYlfbDwBmeMQGTiKF0sw&w=1280",
@@ -122,6 +152,8 @@
     },
     {
       "id": 16,
+      "isbn": "978-1-60309-344-6",
+      "pageCount": "284",
       "title": "Crime and Punishment",
       "author": "Fyodor Dostoyevsky",
       "image": "https://books.google.co.ke/books/content?id=0px_B3jQBLQC&pg=PP1&img=1&zoom=3&hl=en&bul=1&sig=ACfU3U2LRmljguBTKvHJgA9ryl_X_Zpa3A&w=1280",
@@ -130,6 +162,8 @@
     },
     {
       "id": 17,
+      "isbn": "978-1-60309-526-6",
+      "pageCount": "367",
       "title": "War and Peace",
       "author": "Leo Tolstoy",
       "image": "https://books.google.co.ke/books/content?id=c4HEAN-ti1MC&pg=PP1&img=1&zoom=3&hl=en&bul=1&sig=ACfU3U12uyyGGDZqhAxFdc_Qgtqz7KQK6g&w=1280",
@@ -138,6 +172,8 @@
     },
     {
       "id": 18,
+      "isbn": "978-1-60309-504-4",
+      "pageCount": "430",
       "title": "In Search of Lost Time",
       "author": "Marcel Proust",
       "image": "https://books.google.co.ke/books/publisher/content?id=KyDjEAAAQBAJ&pg=PP1&img=1&zoom=3&hl=en&bul=1&sig=ACfU3U0TAXPm3hsysH-Nys3k_EW82w0XvQ&w=1280",
@@ -146,6 +182,8 @@
     },
     {
       "id": 19,
+      "isbn": "978-1-60309-521-1",
+      "pageCount": "654",
       "title": "The Adventures of Huckleberry Finn",
       "author": "Mark Twain",
       "image": "https://books.google.co.ke/books/content?id=7bU4AAAAMAAJ&pg=PP1&img=1&zoom=3&hl=en&bul=1&sig=ACfU3U1kfEMFDZZCja5SpvNDB4bwIrg2jQ&w=1280",
@@ -154,6 +192,8 @@
     },
     {
       "id": 20,
+      "isbn": "978-1-891830-02-0",
+      "pageCount": "210",
       "title": "Brave New World",
       "author": "Aldous Huxley",
       "image": "https://books.google.co.ke/books/content?id=8JyRntokmqYC&pg=PP1&img=1&zoom=3&hl=en&bul=1&sig=ACfU3U3_HhAv7TsBWPXNTqg51TrJlPU9Uw&w=1280",
